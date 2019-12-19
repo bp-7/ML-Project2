@@ -20,7 +20,6 @@ def build_model_emb(emb_w2v, filters, kernel_size, hidden_dims, len_max_tweet, s
     """
     model = Sequential([
         emb_w2v,
-        Dropout(dropout),
         Conv1D(filters, kernel_size, padding='valid', activation='relu', strides=1, input_shape=(len_max_tweet, size_emb)),
         GlobalMaxPooling1D(),
         Dense(hidden_dims),
