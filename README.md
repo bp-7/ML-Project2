@@ -26,7 +26,7 @@ All the dataset and models are available in the following [Google Drive](https:/
 
 ### Data
 
-We did not put the original data on the repository. You will need to locate them in a folder called `data`.
+We did not put the original data on this repository. You will need to locate them in a folder called `data`. They are available in the Google Drive.
 
 ### Pre-processing
 
