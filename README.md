@@ -22,7 +22,7 @@ To be able to run the notebooks `LSTM.ipynb` and `LSTM_Tuning.ipynb` you will ne
 
 ### Google Drive 
 
-All the dataset and models are available in the following [Google Drive](https://drive.google.com/drive/u/0/folders/1kfIeQY8I9o6rM-P5FtFLcdiIcobS4U25). You will be able to run the files present in this repositery with Google Colaboratory.
+All the dataset and models are available in the following [Google Drive](https://drive.google.com/drive/folders/1WOL1puOGA7eccIwQgNAB0Z7JHNaeU3Ta?usp=sharing). You will be able to run the files present in this repositery with Google Colaboratory.
 
 ### Data
 
