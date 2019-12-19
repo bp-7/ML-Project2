@@ -6,6 +6,8 @@ import numpy
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 
+# File to load our best model (best_model.hdf5) and w2v model (available on drive) and use it to predict on test set
+# This gives our best submission on AIcrowd: 86.6
 
 text_data, labels, text_data_test = get_raw_data('', 'f')
 
