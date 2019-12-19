@@ -48,5 +48,5 @@ In the notebooks `CNN_Tuning.ipynb` and `LSTM_Tuning.ipynb` you will find the hy
 
 ### Reproducibility 
 
-You should be able to reproduce our best results by running the script `run.py` which calls our best saved model and make a prediction with it. The model has been generated with the notebook `CNN.ipynb`. The different random seeds were fixed (numpy and tensorflow), however some difference could still be present possibly because of gensim librairy. `CNN.ipynb` will generate a sumbmission file named `sub_best.csv`.
+You should be able to reproduce our best results by running the script `run.py` which calls our best saved model and make a prediction with it. You will need to get the original folder `data` to run it. The model has been generated with the notebook `CNN.ipynb`. The different random seeds were fixed (numpy and tensorflow), however some difference could still be present possibly because of gensim librairy. `CNN.ipynb` will generate a sumbmission file named `sub_best.csv`.
 
